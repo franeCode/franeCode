@@ -1,8 +1,14 @@
 <h1 align="center">Hi, I'm Ana 👋</h1>
 <h3 align="center">A full stack developer</h3>
 <br>
+<ul>
+<li>
 - I'm currently finishing my final project for **CS50 course** 🚀
+</li>
+<li>
 - I’m looking to collaborate on **open source projects** 👯
+</li>
+</ul>
 <br>
 
 <h2>Technologies:</h2>
