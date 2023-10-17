@@ -34,6 +34,10 @@ I’m looking to collaborate on **open source projects** 👯
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franeCode&layout=compact)
 
+  <br>
+
+  ![My stats](https://github-readme-stats.vercel.app/api?username=franeCode&show_icons=true&theme=radical)
+
 </div>
 
 
