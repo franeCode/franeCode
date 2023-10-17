@@ -11,8 +11,9 @@ I’m looking to collaborate on **open source projects** 👯
 </ul>
 <br>
 
-<h2>Technologies:</h2>
-<div>
+
+<div align="center">
+  <h2>Technologies:</h2>
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html" width="40" height="40"/>  
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css" width="40" height="40"/> 
   <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" width="40" height="40"/>
