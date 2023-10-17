@@ -4,9 +4,6 @@
 <br>
 <ul align="center">
 <li>
-I'm currently finishing my final project for **CS50 course** 🚀
-</li>
-<li>
 I’m looking to collaborate on **open source projects** 👯
 </li>
 </ul>
