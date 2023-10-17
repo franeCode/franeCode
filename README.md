@@ -10,7 +10,6 @@ I’m looking to collaborate on **open source projects** 👯
 </li>
 </ul>
 <br>
-<br>
 
 <div align="center">
   <h2>Technologies:</h2>
@@ -23,16 +22,17 @@ I’m looking to collaborate on **open source projects** 👯
   <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="flask" width="40" height="40"/>
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="django" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mySQL" width="40" height="40"/>
-<br>
+  <br>
+  <br>
   <h2>Version Control:</h2>
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" width="40" height="40"/>
 </div>
 <br>
+<br>
 
-<div align="center">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franeCode&layout=compact)
-</div>
+
 
 
 
