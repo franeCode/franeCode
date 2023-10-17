@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ana 👋</h1>
 <h3 align="center">A fullstack developer</h3>
 <br>
-<ul>
+<ul align="center">
 <li>
 I'm currently finishing my final project for **CS50 course** 🚀
 </li>
@@ -12,7 +12,7 @@ I’m looking to collaborate on **open source projects** 👯
 <br>
 
 
-<div align="center" style="padding: 10px;">
+<div align="center" style="padding: 20px;">
   <h2>Technologies:</h2>
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html" width="40" height="40"/>  
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css" width="40" height="40"/> 
@@ -24,12 +24,12 @@ I’m looking to collaborate on **open source projects** 👯
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="django" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mySQL" width="40" height="40"/>
 
-  <h2 style="padding: 10px;">Version Control:</h2>
+  <h2 style="padding: 20px;">Version Control:</h2>
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" width="40" height="40"/>
 </div>
 
-<div align="center" style="padding: 10px;">
+<div align="center" style="padding: 20px;">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franeCode&layout=compact)
 </div>
 
