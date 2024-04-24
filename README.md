@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ana</h1>
 <h3 align="center">A fullstack developer from Germany</h3>
 
+<p align="center">
 - 👨‍💻 All of my projects are available at [www.anapopovic.me](www.anapopovic.me)
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
