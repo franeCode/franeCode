@@ -20,11 +20,7 @@
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![Flask](https://img.shields.io/badge/-Flask-18181b?style=for-the-badge&logo=flask&logoColor=F43F5E)
  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white)
- ![mySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
  
-
-<div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franecode&show_icons=true&locale=en&layout=compact" alt="franecode" /></p>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=franeCode&theme=" alt="franeCode" /></p>
-</div>
+
 
